@@ -1,0 +1,15 @@
+example_inputs/DSC00097_cylindrical.png -260 0
+example_inputs/DSC00098_cylindrical.png -255 0
+example_inputs/DSC00099_cylindrical.png -270 0
+example_inputs/DSC00100_cylindrical.png -276 0
+example_inputs/DSC00101_cylindrical.png -268 0
+example_inputs/DSC00102_cylindrical.png -296 0
+example_inputs/DSC00103_cylindrical.png -306 0
+example_inputs/DSC00104_cylindrical.png -335 0
+example_inputs/DSC00105_cylindrical.png -300 0
+example_inputs/DSC00106_cylindrical.png -297 0
+example_inputs/DSC00107_cylindrical.png -340 0
+example_inputs/DSC00108_cylindrical.png -316 0
+example_inputs/DSC00109_cylindrical.png -368 0
+example_inputs/DSC00110_cylindrical.png -300 0
+example_inputs/DSC00111_cylindrical.png -240 0
